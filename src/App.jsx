@@ -70,7 +70,7 @@ function App() {
         <h1>Disi Pepiq</h1>
         <h2>Web Portfolio</h2>
 
-          <h4> I am currently work as a Junior Desktop support engineer at 1Network.<br></br>
+          <h4> I am currently working as a Junior Desktop support engineer at 1Network.<br></br>
           I am a graduate in computer science receiving a 2nd class honours from TU Dublin Blanchardstown.</h4>
 
         </Container>
